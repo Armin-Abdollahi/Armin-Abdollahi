@@ -19,14 +19,11 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 
 ### About me
 ---
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👦🏻 I’m 24 years old.
+- 🎓 I have a bachelor's degree in software engineering from Roshdiyeh University in Tabriz.
+- 📖 I’m a master's student in artificial intelligence at Azad University, Tehran North Branch.
+- 🧑🏻‍💻 I’m currently working on personal projects.
+- 🤝🏻 I’m looking to collaborate on new and interesting projects and ideas
 
 ### Skills
 ---
@@ -37,4 +34,7 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 
 ### Interest
 ---
-- 
+- Deep Learning
+- Image Processing
+- Signal Processing (EEG & ECG)
+- NLP
