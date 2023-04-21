@@ -38,5 +38,5 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 ---
 - Deep Learning
 - Image Processing
-- Signal Processing (EEG & ECG)
+- Biomedical Signal Processing
 - NLP
