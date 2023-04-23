@@ -1,3 +1,5 @@
+<img width="960" alt="Armin banner" src="https://user-images.githubusercontent.com/103449830/233869843-66cd23b6-92a0-45b7-bbb8-325d6c67bc25.png">
+
 ### Hi there 👋
 
 <!--
