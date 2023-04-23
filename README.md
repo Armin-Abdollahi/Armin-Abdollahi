@@ -34,9 +34,13 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
 
-### Interest
+### Interests
 ---
 - Deep Learning
+- Machine Learning
+- Reinforcement Learning
 - Image Processing
 - Biomedical Signal Processing
-- NLP
+- Natural Language Processing
+- Pattern Recognition
+- Computer Vision
