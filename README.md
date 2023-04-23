@@ -45,5 +45,8 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 - Pattern Recognition
 - Computer Vision
 
+---
+### Armin's GitHub Activity Graph
 ![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=6&layout=compact)
+![Armin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)
