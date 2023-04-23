@@ -44,3 +44,6 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 - Natural Language Processing
 - Pattern Recognition
 - Computer Vision
+
+![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=6&layout=compact)
