@@ -51,4 +51,5 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 ### Armin's GitHub Activity Graph
 |![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical)|![Armin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical)|
 |---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|
+|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|![giphy-1](https://user-images.githubusercontent.com/103449830/234415800-8eff9eea-8f50-4df7-9dbe-937cc8d107b1.gif)|
+
