@@ -57,6 +57,6 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 
 ---
 ### Armin's GitHub Activity Graph
-|![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical)|![Armin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical)|
+|<img src="https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical" width="400">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical" width="400">|
 |---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="250" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif"></p>|
+|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="280" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif"></p>|
