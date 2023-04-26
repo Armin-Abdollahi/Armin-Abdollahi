@@ -47,9 +47,16 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 - Pattern Recognition
 - Computer Vision
 
+### Connect with me:
+---
+<a href="www.linkedin.com/in/armin-abdollahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/Armin_Abhi64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/armin_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="Instagram" height="30" width="40" /></a>
+<a href="https://t.me/armin_abhi" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegram" alt="Telegram" height="30" width="40" /></a>
+<a href="https://www.gmail.com/armin.abdollahi.64@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" alt="Gmail" height="30" width="40" /></a>
+
 ---
 ### Armin's GitHub Activity Graph
 |![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical)|![Armin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical)|
 |---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|![giphy-1](https://user-images.githubusercontent.com/103449830/234415800-8eff9eea-8f50-4df7-9dbe-937cc8d107b1.gif)|
-
+|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="285" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif"></p>|
