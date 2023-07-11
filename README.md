@@ -1,4 +1,5 @@
-<img width="960" alt="Armin banner" src="https://user-images.githubusercontent.com/103449830/233869843-66cd23b6-92a0-45b7-bbb8-325d6c67bc25.png">
+![Armin_Banner](https://github.com/Armin-Abdollahi/Armin-Abdollahi/assets/103449830/11ab48c9-660a-4584-b4a0-1854705d78a2)
+
 
 ### Hi there 👋
 
