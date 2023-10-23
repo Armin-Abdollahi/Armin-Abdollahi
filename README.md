@@ -44,6 +44,7 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 - Reinforcement Learning
 - Image Processing
 - Biomedical Signal Processing
+- Brain Computer Interface (BCI)
 - Natural Language Processing
 - Pattern Recognition
 - Computer Vision
