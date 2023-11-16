@@ -1,4 +1,4 @@
-![Armin_Banner](https://github.com/Armin-Abdollahi/Armin-Abdollahi/assets/103449830/11ab48c9-660a-4584-b4a0-1854705d78a2)
+![Screenshot (382)](https://github.com/Armin-Abdollahi/Armin-Abdollahi/assets/103449830/74036515-7d31-4334-953e-5da236e02de7)
 
 
 ### Hi there 👋
