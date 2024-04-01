@@ -22,7 +22,7 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 
 ### About me
 ---
-- 👦🏻 I’m 24 years old.
+- 👦🏻 I’m 25 years old.
 - 📖 I’m a master's student in artificial intelligence at Azad University, Tehran North Branch.
 - 🎓 Also i have a bachelor's degree in software engineering from Roshdiyeh University in Tabriz.
 - 🧑🏻‍💻 I’m currently working on various projects related to AI.
