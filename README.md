@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Armin. Thanks for taking the time to view my GitHub Profile.
+My name is Armin. Thanks for taking the time to view my GitHub Profile. You can check my academic website by link below: [armin-abdollahi.github.io](https://armin-abdollahi.github.io/)
 
 ### About me
 ---
@@ -39,12 +39,12 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile.
 
 ### Interests
 ---
+- Brain Computer Interface (BCI)
+- Biomedical Signal Processing
+- Medical Image Processing
 - Deep Learning
 - Machine Learning
 - Reinforcement Learning
-- Image Processing
-- Biomedical Signal Processing
-- Brain Computer Interface (BCI)
 - Natural Language Processing
 - Pattern Recognition
 - Computer Vision
