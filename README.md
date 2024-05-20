@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Armin. Thanks for taking the time to view my GitHub Profile. You can check my academic website by link below: [armin-abdollahi.github.io](https://armin-abdollahi.github.io/)
+My name is Armin. Thanks for taking the time to view my GitHub Profile. You can check my [Academic-Website](https://armin-abdollahi.github.io/)
 
 ### About me
 ---
