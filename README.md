@@ -51,6 +51,12 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile. You can 
 
 ### Connect with me:
 ---
+Website: [My Academic Website](https://armin-abdollahi.github.io/)
+Hugging Face: [Hugging Face Account](https://huggingface.co/Armin-Abdollahi)
+LinkedIn: [LinkedIn Account](www.linkedin.com/in/armin-abdollahi)
+Kaggle: [Kaggle Account](https://www.kaggle.com/arminabdollahi)
+
+
 <a href="www.linkedin.com/in/armin-abdollahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/Armin_Abhi64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/armin_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="Instagram" height="30" width="40" /></a>
