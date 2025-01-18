@@ -23,6 +23,7 @@ My name is Armin. Thanks for taking the time to view my GitHub Profile. You can 
 ### About me
 ---
 - 👦🏻 I’m 25 years old.
+- 💻 I'm Working at White Tree International Academy as an AI specialist and EEG signal analyst.
 - 📖 I’m a master's student in artificial intelligence at Azad University, Tehran North Branch.
 - 🎓 Also i have a bachelor's degree in software engineering from Roshdiyeh University in Tabriz.
 - 🧑🏻‍💻 I’m currently working on various projects related to AI.
