@@ -67,4 +67,4 @@ Kaggle: [Kaggle Account](https://www.kaggle.com/arminabdollahi)
 ### Armin's GitHub Activity Graph
 |<img src="https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical" width="400">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical" width="412">|
 |---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="280" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif"></p>|
+|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="280" src="https://github.com/user-attachments/assets/c5afd475-14d2-4d0d-b06d-29a37a8702d0"></p>|
