@@ -1,71 +1,58 @@
-![Screenshot (953)](https://github.com/Armin-Abdollahi/Armin-Abdollahi/assets/103449830/e14992fa-500c-4b0a-8f97-dbd22313f3ee)
+![EEG](https://github.com/user-attachments/assets/363b471d-a1d4-405b-8b11-da07abea9038)
 
+## 🧠 Neuro-AI & BCI Researcher | M.Sc. in Artificial Intelligence
 
-### Hi there 👋
+Welcome to my academic space! I am **Armin Abdollahi**, a researcher dedicated to bridging the gap between **Computational Neuroscience** and **Deep Learning**. My work focuses on making Brain-Computer Interfaces (BCIs) more reliable and interpretable using Explainable AI (XAI).
 
-<!--
-**Armin-Abdollahi/Armin-Abdollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is Armin. Thanks for taking the time to view my GitHub Profile. You can check my [Academic-Website](https://armin-abdollahi.github.io/)
-
-### About me
----
-- 👦🏻 I’m 25 years old.
-- 💻 I'm Working at White Tree International Academy as an AI specialist and EEG signal analyst.
-- 📖 I’m a master's student in artificial intelligence at Azad University, Tehran North Branch.
-- 🎓 Also i have a bachelor's degree in software engineering from Roshdiyeh University in Tabriz.
-- 🧑🏻‍💻 I’m currently working on various projects related to AI.
-- 🤝🏻 I’m looking to collaborate on new and interesting projects and ideas
-
-### Skills
----
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
-
-### Interests
----
-- Brain Computer Interface (BCI)
-- Biomedical Signal Processing
-- Medical Image Processing
-- Deep Learning
-- Machine Learning
-- Reinforcement Learning
-- Natural Language Processing
-- Pattern Recognition
-- Computer Vision
-
-### Connect with me:
----
-Website: [My Academic Website](https://armin-abdollahi.github.io/)
-Hugging Face: [Hugging Face Account](https://huggingface.co/Armin-Abdollahi)
-LinkedIn: [LinkedIn Account](www.linkedin.com/in/armin-abdollahi)
-Kaggle: [Kaggle Account](https://www.kaggle.com/arminabdollahi)
-
-
-<a href="www.linkedin.com/in/armin-abdollahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/Armin_Abhi64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/armin_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="Instagram" height="30" width="40" /></a>
-<a href="https://t.me/armin_abhi" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegram" alt="Telegram" height="30" width="40" /></a>
-<a href="https://www.gmail.com/armin.abdollahi.64@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" alt="Gmail" height="30" width="40" /></a>
+🌐 **[Academic Website](https://armin-abdollahi.github.io/)** | 💼 **[LinkedIn](https://www.linkedin.com/in/armin-abdollahi)** | 🎓 **[Google Scholar](https://scholar.google.com/citations?user=_lXpoGEAAAAJ&hl=en)**
 
 ---
-### Armin's GitHub Activity Graph
-|<img src="https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical" width="400">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical" width="412">|
-|---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="280" src="https://github.com/user-attachments/assets/c5afd475-14d2-4d0d-b06d-29a37a8702d0"></p>|
+
+### 🔭 Current Research & Focus
+- **Thesis (20/20 Score):** Developing Transformer-based models for EEG signal decoding.
+- **Explainable AI (XAI):** Uncovering the "Clever Hans" effect in BCI models using Grad-CAM and RSA.
+- **Robust Architectures:** Engineering Convolutional Transformers (CvT) for artifact-resistant neural decoding.
+- **Open Science:** Translating Alexander Guger’s BCI textbook into Persian to support the local scientific community.
+
+### 🛠️ Technical Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Neuro-specific tools:** `MNE-Python` | `EEGLAB` | `Optuna` | `Hugging Face`
+
+---
+
+### 🧪 Research Interests
+- **BCI & HCI:** Motor Imagery, ERP, and SSVEP decoding.
+- **Explainability:** Interpretable Deep Learning for Bio-signals.
+- **Multimodal Data:** Integrating EEG with fNIRS for hybrid interfaces.
+- **Optimization:** Hyperparameter Tuning & Automated ML (AutoML).
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/armin-abdollahi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" /></a>
+<a href="https://huggingface.co/Armin-Abdollahi" target="blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="25" /></a>
+<a href="https://www.kaggle.com/arminabdollahi" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="25" /></a>
+<a href="https://t.me/armin_abhi" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="25" /></a>
+<a href="mailto:armin.abdollahi.64@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armin-abdollahi&count_private=true&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armin-abdollahi&theme=radical&hide_border=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-abdollahi&count_private=true&theme=radical&layout=compact&hide_border=true" width="400" />
+</p>
